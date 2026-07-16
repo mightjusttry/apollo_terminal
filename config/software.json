@@ -32,6 +32,23 @@
             "<img src=\"https://thispersondoesnotexist.com/image\" title=\"tHeY aRe NoT hUmAn\" style=\"width: 10rem; max-width: 100%;\">"
         ]
     },
+     "personnel": {
+        "location": ["firstlight"],
+        "help": "Personnel will provide a list of current members and status.",
+        "message": [
+            "Personnel:",
+            "* <b>Director</b> : Felicity Price",
+            "* <b>Team Lead</b> : Vincent Miller",
+            "* <b>Field Supervisor</b> : Lori Olson",
+            "* <b>Technician</b> : Patrrick Nguyen",
+            "* <b>Political Liasion</b> : Cessar Ward",
+            "* <b><p style=color : Red> : Casey Hewitt  - KIA</p>",
+            "* <b>Warrior</b> : John Smith",
+            "* <b>Warrior</b> : Omar Daley",
+            "* <b>Clearance Specialist</b> : John Smith",
+            "* <b>Breacher</b> :  Evan Watkins",
+            ]
+     },
     "artifact": {},
     "decrypt": {},
     "identify": {}
