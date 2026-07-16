@@ -3,5 +3,12 @@
         "userId": "01VM",
         "password": "temppass1",
         "userName": "Vincent Miller"
-    }
+    },
+
+    {
+        "userId": "02FP",
+        "password": "temppass2",
+        "userName": "Felicity Price"
+    },
+
 ]
