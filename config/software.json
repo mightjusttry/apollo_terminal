@@ -31,22 +31,6 @@
             "This <abbr title=\"tHeY aRe NoT hUmAn\"><s>person</s></abbr> is your target:",
             "<img src=\"https://thispersondoesnotexist.com/image\" title=\"tHeY aRe NoT hUmAn\" style=\"width: 10rem; max-width: 100%;\">"
         ]
-    },
-    "personnel.exe": {
-        "location": ["firstlight"],
-        "message": [
-            "Personnel:",
-            "* <b>Director</b> : Felicity Price",
-            "* <b>Team Lead</b> : Vincent Miller",
-            "* <b>Field Supervisor</b> : Lori Olson",
-            "* <b>Technician</b> : Patrrick Nguyen",
-            "* <b>Political Liasion</b> : Cessar Ward",
-            "* <b>: Casey Hewitt  - KIA</b>",
-            "* <b>Warrior</b> : John Smith",
-            "* <b>Warrior</b> : Omar Daley",
-            "* <b>Clearance Specialist</b> : John Smith",
-            "* <b>Breacher</b> :  Evan Watkins",
-         ]
      },
     "artifact": {},
     "decrypt": {},
