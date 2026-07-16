@@ -1,1 +1,6 @@
-
+{
+    "serverAddress": "firstlight.gov",
+    "serverName": "FIRSTLIGHT",
+    "iconName": "firstlight.png",
+    "terminalID": "firstlight"
+}
