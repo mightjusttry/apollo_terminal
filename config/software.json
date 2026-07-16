@@ -32,8 +32,7 @@
             "<img src=\"https://thispersondoesnotexist.com/image\" title=\"tHeY aRe NoT hUmAn\" style=\"width: 10rem; max-width: 100%;\">"
         ]
     },
-    "members.exe": {
-        "location": ["firstlight"],
+    "members": {
         "message": [
             "Director of Operations - Felicity Price",
         ]
