@@ -32,7 +32,7 @@
             "<img src=\"https://thispersondoesnotexist.com/image\" title=\"tHeY aRe NoT hUmAn\" style=\"width: 10rem; max-width: 100%;\">"
         ]
     },
-     "personnel.exe": {
+    "personnel.exe": {
         "location": ["firstlight"],
         "message": [
             "Personnel:",
