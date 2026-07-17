@@ -38,11 +38,9 @@
       ]
    },
    "member":{
-      "location":[
-         "firstlight"
-      ],
+      "location":["firstlight"],
       "message":[
          "Director: Felicity Price"
       ]
-   }
+   },
 }
