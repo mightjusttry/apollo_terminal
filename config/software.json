@@ -33,9 +33,9 @@
         ]
     },
     "member": {
-        "help": "The member command will list the current officers of the sect.",
+        "location": ["firstlight"],
         "message": [
-          "Director: Felicity Price"
+          "Director: Felicity Price",
         ]
     },
 }
