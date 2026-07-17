@@ -33,7 +33,6 @@
         ]
     },
     "member": {
-        "location": ["127.0.0.1", "localhost"],
         "message": [
           "Director: Felicity Price"
         ]
