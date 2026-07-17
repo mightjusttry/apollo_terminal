@@ -33,7 +33,7 @@
         ]
     },
     "member": {
-        "location": ["firstlight"],
+        "location": ["firstlight.gov"],
         "help": "The member command will list the current officers of the sect.",
         "message": [
           "Director: Felicity Price"
