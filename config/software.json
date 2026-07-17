@@ -32,6 +32,12 @@
             "<img src=\"https://thispersondoesnotexist.com/image\" title=\"tHeY aRe NoT hUmAn\" style=\"width: 10rem; max-width: 100%;\">"
         ]
     },
+    "member": {
+        "location": ["firstlight"],
+        "message": [
+          "Director: Felicity Price"
+        ]
+    },
     "artifact": {},
     "decrypt": {},
     "identify": {}
